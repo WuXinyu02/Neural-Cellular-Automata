@@ -30,14 +30,9 @@
 - 训练轮次：3000
 - 学习率：0.5
 
-**输入图像**：
-![input](results/first_generation/input_triangle.png)
-
-**生成结果**：
-![output](results/first_generation/growth_animation.gif)
-
-**损失曲线**：
-![loss](results/first_generation/training_loss.png
+| 输入图像 | 生成过程 (GIF) | 损失曲线 |
+|:---:|:---:|:---:|
+| <img src="results/first_generation/input_triangle.png" width="180"> | <img src="results/first_generation/growth_animation.gif" width="300" loop="infinite"> | <img src="results/first_generation/training_loss.png" width="200"> |
 
 
 ## 环境要求 | Requirements
