@@ -25,6 +25,8 @@
 
 这是本项目的第一个效果比较好的生成结果，记录了NCA模型从中心种子生长到目标图像的过程。
 
+*This is the first promising generation result of this project, documenting the process of the NCA model growing from a central seed to the target image.*
+
 **训练参数**：
 - 图像尺寸：32×32
 - 训练轮次：3000
