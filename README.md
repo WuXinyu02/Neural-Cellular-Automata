@@ -32,7 +32,7 @@
 
 | 输入图像 | 生成过程 (GIF) | 损失曲线 |
 |:---:|:---:|:---:|
-| <img src="results/first_generation/input_triangle.png" width="180"> | <img src="results/first_generation/growth_animation.gif" width="300" loop="infinite"> | <img src="results/first_generation/training_loss.png" width="200"> |
+| <img src="results/first_generation/input_triangle.png" width="250"> | <img src="results/first_generation/growth_animation.gif" width="300" loop="infinite"> | <img src="results/first_generation/training_loss.png" width="280"> |
 
 
 ## 环境要求 | Requirements
