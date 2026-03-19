@@ -38,8 +38,8 @@
 
 **图注**：NCA模型从中心种子生长到目标图像的完整过程（32×32像素，3000轮训练）
 *Caption: Complete growth process of the NCA model from a central seed to the target image (32×32 pixels, 3000 training steps)*
-加载播放失败可尝试刷新界面。
-If the animation fails to load or play, please refresh the page and try again.
+ 加载播放失败可尝试刷新界面。
+ *If the animation fails to load or play, please refresh the page and try again.*
 
 
 
