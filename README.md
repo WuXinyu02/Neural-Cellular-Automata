@@ -36,7 +36,7 @@
 **生成结果**：
 ![output](results/first_generation/growth_animation.gif)
 
-**损失曲线**（如果有）：
+**损失曲线**：
 ![loss](results/first_generation/training_loss.png
 
 
