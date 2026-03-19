@@ -32,7 +32,7 @@
 
 | 输入图像 | 生成过程 (GIF) | 损失曲线 |
 |:---:|:---:|:---:|
-| <img src="results/first_generation/input_triangle.png" width="250"> | <img src="results/first_generation/growth_animation.gif" width="300" loop="infinite"> | <img src="results/first_generation/training_loss.png" width="280"> |
+| <img src="results/first_generation/input_triangle.png" width="300"> | <img src="results/first_generation/growth_animation.gif" width="300" loop="infinite"> | <img src="results/first_generation/training_loss.png" width="280"> |
 
 <div align="center">
   <video id="growthVideo" width="500" controls autoplay loop muted playsinline>
@@ -40,9 +40,11 @@
     您的浏览器不支持视频标签，请查看<a href="results/first_generation/growth_animation.gif">GIF版本</a>
   </video>
   <br>
-  <button onclick="document.getElementById('growthVideo').currentTime = 0; document.getElementById('growthVideo').play();" style="margin-top: 10px; padding: 8px 20px; background-color: #2c3e50; color: white; border: none; border-radius: 4px; cursor: pointer;">
-    🔄 重新播放（return）
-  </button>
+  <button 
+  onclick="document.getElementById('growthVideo').currentTime = 0; document.getElementById('growthVideo').play();" 
+  style="margin-top: 10px; padding: 8px 20px; background-color: #2c3e50; color: white; border: none; border-radius: 4px; cursor: pointer;">
+  🔄 重新播放（return）   ← 这个是按钮
+</button>
   <br>
   <em>图：NCA模型从中心种子生长到目标图像的完整过程（点击按钮可重新观看）</em>
 </div>
