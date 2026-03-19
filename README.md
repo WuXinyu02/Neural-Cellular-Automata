@@ -1,7 +1,7 @@
 ## Neural-Cellular-Automata
 
-# 文件夹展示我关于NCA制作与设计的若干次阶段性成果
-# The folder shows my NCA attemptation with the phased objectives
+# 文件夹展示我关于NCA制作与设计的若干次阶段性成果（持续更新中）
+# The folder shows my NCA attemptation with the phased objectives（continuously updated）
 
 # 可微分神经元胞自动机（NCA）图像生成
 # Differentiable Neural Cellular Automata for Image Generation
@@ -18,6 +18,27 @@
 - **`best_perform_test.py`**  
   **测试和演示脚本，用于快速验证模型结构，不含图像上传功能。**  
   *Testing and demonstration script for rapid model architecture validation. Does not include image upload functionality.*
+
+  ## 📊 效果展示 | Results Gallery
+
+### 第一个生成成果 (First Successful Generation)
+
+这是本项目的第一个效果比较好的生成结果，记录了NCA模型从中心种子生长到目标图像的过程。
+
+**训练参数**：
+- 图像尺寸：32×32
+- 训练轮次：3000
+- 学习率：0.5
+
+**输入图像**：
+![input](results/first_generation/input_triangle.png)
+
+**生成结果**：
+![output](results/first_generation/growth_animation.gif)
+
+**损失曲线**（如果有）：
+![loss](results/first_generation/training_loss.png
+
 
 ## 环境要求 | Requirements
 - Python 3.7+
