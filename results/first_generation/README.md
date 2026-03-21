@@ -11,7 +11,7 @@
 |:---|:---|
 | 图像尺寸 （ image size ） | 32 × 32 像素 （ pixels ） |
 | 训练轮次 （ training steps ） | 3000 |
-| 学习率 （ learning rate ） | 0.5 |
+| 学习率 （ learning rate ） | 0.001 |
 | 模型通道数 （ channels ） | 16 |
 | 更新概率 （ update rate ） | 0.5 |
 | 训练时间 （ training date ） | 2026-03-19 |
